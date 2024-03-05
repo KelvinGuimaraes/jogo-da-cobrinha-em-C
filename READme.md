@@ -19,7 +19,7 @@ Este é um projeto de implementação do clássico jogo da cobrinha em C/C++. O 
 
 1. Clone o repositório para o seu computador:
 
-git clone (https://github.com/KelvinGuimaraes/WEB-Basico.git)
+git clone (https://github.com/KelvinGuimaraes/jogo-da-cobrinha-em-C.git)
 
 2. Compile o código-fonte utilizando o compilador C/C++.
 
